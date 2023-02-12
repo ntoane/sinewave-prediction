@@ -2,7 +2,6 @@
 import numpy as np
 import matplotlib.pyplot as plot
 
-############### Question 1.1 ######################
 
 # Define a function to generate amplitude(y)
 def gen_sine(time, frequency, amplitude, h_shift=0, v_shift=0) -> np.ndarray :
